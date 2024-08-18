@@ -1,1 +1,5 @@
-"/home": "https://github.com/glnk-dev"
+"/issues/{$1}": "https://github.com/{$1}/issues"
+"/issues": "https://github.com/issues"
+
+"/pulls/{$1}": "https://github.com/{$1}/pulls"
+"/pulls": "https://github.com/pulls"
